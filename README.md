@@ -337,7 +337,51 @@ The following illustration shows the architecture of a Linux system −
 * Single User - Multitasking Operating System - In this type OS supports only one user to log into the system but a user can perform multiple tasks at a time, browsing internet while playing songs etc. Eg: Windows -98,Xp,vista,7 etc.
 * Multi User - Multitasking Operating System - In this type OS provide multiple users to log into system and also each user can perform various tasks at a time. In a broader term multiple users can logged into system and share the resources of the system at the same time Eg: UNIX,LIUNX etc.
 
-# File System Hierarchy
+# Some important File System Hierarchy
 
 ![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/06f8016e-96c6-42fa-88fd-3d8f9e68c59b)
+
+# Diffrent Linux distros
+
+➔ Popular Desktop Linux OS
+
+* Ubuntu Linux
+* Linux Mint
+* Arch Linux
+* Fedora
+* Debian
+* OpenSuse
+
+➔ Popular Server Linux OS
+
+* Red Hat Enterprise Linux [RHEL]
+* Ubuntu Server
+* Centos
+* SUSE Enterprise Linux
+
+# Most used Linux distros currently in IT industry.
+
+* RPM based:- RHEL & Centos
+* Debian based :- Ubuntu Server
+
+# Diffrence between RPM based and Debian based.
+
+From user’s point of view, there isn’t much difference in these tools. The RPM and DEB formats are both just archive files, with some metadata attached to them. They are both equally arcane, have hardcoded install paths and only differ in subtle details. DEB files are installation files for Debian based distributions. RPM files are installation files for Red Hat based distributions. Ubuntu is based on Debian’s package manage based on APT and DPKG. Red Hat, CentOS and Fedora are based on the old Red Hat Linux package management system, RPM.
+
+* DEB or .deb (Debian based softwares)
+
+DEB is the extension of the Debian software package format and the most often used name for such binary packages. DEB was developed by Bedian.
+
+    *  Example: Google chrome software
+    *  Package name: google-chrome-stable_current_amd64.deb
+    *  Installation: dpkg -i google-chrome-stable_current_amd64.deb
+
+* RPM or .rpm (Red Hat based softwares)
+
+It is a package management system. The name RPM variously refers to the .rpm file format, files in this format, software packaged in such files, and the package manager itself. RPM was intended primarily for Linux distributions; the file format is the baseline package format of the Linux Standard Base. RPM was developed by Community & Red Hat.
+
+    *  Example: Google chrome software
+    *  Package Name: google-chrome-stable-57.0.2987.133-1.x86_64.rpm
+    *  Installation: rpm -ivh google-chrome-stable-57.0.2987.133-1.x86_64.rpm
+
 
