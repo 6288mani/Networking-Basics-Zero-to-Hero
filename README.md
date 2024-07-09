@@ -1,5 +1,5 @@
 # Networking-Basics-Zero-to-Hero
-In this Respo we are going to learn the basic networking knowlegde require for Technical Support &amp; DevOps Role
+In this Respo we are going to learn the basic networking knowlegde required for Technical Support &amp; DevOps Role.
 # Network
 In simple words it is an Interconnection of two or more devices
 # Networking
@@ -50,19 +50,9 @@ It act's as Interface between Hardware and Software application for effective co
 ![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/37e4df09-2ff6-4e1f-815e-fd9ef5339578)
 
 
-
-
-
-
-
-
-
-
-
-
 # IP Address Format and Table
 
-IP address is a short form of "Internet Protocol Address." It is a unique number provided to every device connected to the internet network, such as Android phone, laptop, Mac, etc. An IP address is represented in an integer number separated by a dot (.), for example, 192.167.12.46.
+IP address is a short form of "Internet Protocol Address".It is a Logical address assigned by a unique number provided to every device connected to the internet network, such as Android phone, laptop, Mac, etc. It is a Network Layer address [Layer-3]. An IP address is represented in an integer number separated by a dot (.), for example, 192.167.12.46.
 
 # Types of IP Address
 
@@ -80,6 +70,11 @@ IPv4 is version 4 of IP. It is a current version and the most commonly used IP a
 # What is IPv6?
 
 IPv4 produces 4 billion addresses, and the developers think that these addresses are enough, but they were wrong. IPv6 is the next generation of IP addresses. The main difference between IPv4 and IPv6 is the address size of IP addresses. The IPv4 is a 32-bit address, whereas IPv6 is a 128-bit hexadecimal address. IPv6 provides a large address space, and it contains a simple header as compared to IPv4.
+
+# IP Address Assignment
+
+  * Static IP Address - Address that are manually assigned and do not change over time.
+  * Dynamic IP Address - Addresses that are automatically assigned for a specific period of time & can change after this period is over.
 
 # IP Address Format
 
