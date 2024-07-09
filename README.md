@@ -331,3 +331,13 @@ The following illustration shows the architecture of a Linux system −
 * Shell − An interface to kernel, hiding complexity of kernel's functions from users. The shell takes commands from the user and executes kernel's functions.
 
 * Utilities − Utility programs that provide the user most of the functionalities of an operating systems.
+
+# Types of Operating System:
+* Single User - Single Tasking Operating System - In this type only one user can log into system and can perform only one task at a time Eg: MS-DOS
+* Single User - Multitasking Operating System - In this type OS supports only one user to log into the system but a user can perform multiple tasks at a time, browsing internet while playing songs etc. Eg: Windows -98,Xp,vista,7 etc.
+* Multi User - Multitasking Operating System - In this type OS provide multiple users to log into system and also each user can perform various tasks at a time. In a broader term multiple users can logged into system and share the resources of the system at the same time Eg: UNIX,LIUNX etc.
+
+# File System Hierarchy
+
+![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/06f8016e-96c6-42fa-88fd-3d8f9e68c59b)
+
