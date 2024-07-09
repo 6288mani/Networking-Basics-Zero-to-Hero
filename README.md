@@ -2,9 +2,19 @@
 In this Respo we are going to learn the basic networking knowlegde required for Technical Support &amp; DevOps Role.
 # Network
 In simple words it is an Interconnection of two or more devices
+
+![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/876ab814-29cd-4080-9094-fc2d2de36c39)
+
 # Networking
 The communication between the interconnected devices is called Networking
+# Network Architecture
+
+![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/8877eee9-6c22-4149-9495-331e834dec72)
+
 # Types of Network
+
+![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/b4c7bf4c-0ef5-46f7-8d21-3a626fb4f0ce)
+
 * LAN - Local Area Network
 * MAN - Metropolitian Area Network
 * CAN - Controller Area Network
@@ -24,6 +34,12 @@ The communication between the interconnected devices is called Networking
 It is a centralized device which contains multiple ports used to connect multiple systems to create a group or network. It performs Broad Casting Method which also called as Non- Secured Device or Non- Intelligent Device. It doesn't maintain MAC (Media Access Control).
 # Switch -
 It is a networking device which contains multiple ports used to connect multiple systems to create a group or network. It performs Multi- Casting [One to Many or Many to Many Communication] for the first time and Uni- Casting method [ 1 to 1 communication it is called as Intelligent Device] from second time onwards. It also maintains MAC list.
+
+![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/4534639c-3b52-4e46-be08-47be713e6a93)
+![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/c272b770-e8d1-48ca-90d7-d85850a02e45)
+
+![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/934c5d81-f655-40bc-b77f-7d1172436129)
+
 # Router -
 It is a networking device which is used to communicate between two or more different networks from different geographical areas. It performs only Uni- Casting method. It also maintains MAC list. It is called as Intelligent device. Encryption, Decryption, Segmentation [8 bits] & Encapsulation [Invisible]
 # Operating System
@@ -32,23 +48,28 @@ It act's as Interface between Hardware and Software application for effective co
 * Server - Servers are used to maintain Domain Centrally & Securely contains different kinds of services[AD, User Management, Profiles, Home Folder's, Permissions, Group policy Management Console, DFS (Distributed File System), DHCP (Dynamic Host Configuration protocol), DNS (Domain Name System), WDS (Windows Deployment Services), Software Deployment, Hyper -V, Storage Management, RRAS (Routing & Remote Access Service), RAS (Remote Access System), RDS (Remote Desktop System), Backup & Recovery, OU (Organisation Unit), IIS (Internet Information Service) are used in many computers.
 * Client - It runs on computer only,it doesn't maintain services.
 # Classification Of Network -
-* Topology - Topology specifies the geometric arrangement of the network. Common topologies are a bus, ring and star.
+* Topology - Topology specifies the geometric arrangement of the network. Common topologies are a Bus, Ring, Tree, Mesh, Hybrid and Star.
+
+![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/eb616269-2b63-47fe-b42e-4b4a47e78325)
 
 ![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/bcd6fa24-1e67-4459-a690-7a609d2c6606)
 
 * Protocol - Protocol specifies a common set of rules and signals the computers on the network use to communicate. Most networks use Ethernet, but some networks may use IBM's Token Ring protocol. We recommend Ethernet for both home and office networking.
 
+![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/42fb8ac0-32a9-4da1-82cc-4c363117237f)
+
 ![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/46727eae-5878-49c1-b968-d1ac878ba0cf)
 
-
 * Architecture - It is a Logical Topology. Architecture refers to one of the two major types of network architecture:
+
+<img width="522" alt="image" src="https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/c858b688-15af-4904-b346-d5fec7001eac">
+
   
          * Peer to Peer [WorkGroup Model] - In a Peer-to-Peer networking configuration, there is no server, and computers simply connect with each other in a workgroup.
   
          * Client & Server [Domain Model] - It refers to a system server that hosts, delivers, and manages most of the resources and services that the client requests.
 
 ![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/37e4df09-2ff6-4e1f-815e-fd9ef5339578)
-
 
 # IP Address Format and Table
 
@@ -123,6 +144,8 @@ Class E IP address is reserved for experimental purposes and future use. It does
 # Differences between the protocols TCP vs UDP: 
 
 Here are the main differences between TCP and UDP:
+
+![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/9c41ec6c-e28a-46ec-95c1-8ff78fa1b9ff)
 
 ![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/b9a6ec76-322c-4e53-b659-fdb5346048d4)
 
@@ -230,6 +253,20 @@ TCP/IP is a layered server architecture system in which each layer is defined ac
 
 # MAC ID
 A MAC (Media Access Control) address, sometimes referred to as a hardware or physical address, is a unique, 12-character alphanumeric attribute that is used to identify individual electronic devices on a network.
+
+# DHCP
+Dynamic Host Configuration Protocol (DHCP) is a client/server protocol that automatically provides an Internet Protocol (IP) host with its IP address and other related configuration information such as the subnet mask and default gateway.
+
+![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/a7dbd036-b464-4b06-ad5c-03d1dd3c1dbf)
+
+![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/9185672c-0676-42c2-839a-99653c7f108d)
+
+# DNS
+A Domain Name System (DNS) turns domain names into IP addresses, which allow browsers to get to websites and other internet resources.
+
+![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/7291c7eb-11bc-47f1-a72d-441ad5d80839)
+
+![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/741f2f8f-a585-4e56-ba23-864b56d5a66d)
 
 # OSI Model [Open Systems Interconnection]
 
