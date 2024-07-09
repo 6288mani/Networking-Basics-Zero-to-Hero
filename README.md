@@ -52,8 +52,6 @@ It act's as Interface between Hardware and Software application for effective co
 
 ![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/eb616269-2b63-47fe-b42e-4b4a47e78325)
 
-![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/bcd6fa24-1e67-4459-a690-7a609d2c6606)
-
 * Protocol - Protocol specifies a common set of rules and signals the computers on the network use to communicate. Most networks use Ethernet, but some networks may use IBM's Token Ring protocol. We recommend Ethernet for both home and office networking.
 
 ![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/42fb8ac0-32a9-4da1-82cc-4c363117237f)
