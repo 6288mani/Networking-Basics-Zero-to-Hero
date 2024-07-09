@@ -143,7 +143,7 @@ Class E IP address is reserved for experimental purposes and future use. It does
 
 Here are the main differences between TCP and UDP:
 
-![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/9c41ec6c-e28a-46ec-95c1-8ff78fa1b9ff)
+![TCP   UDP](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/540de19c-a7fe-41f6-abc7-26324e9044ed)
 
 ![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/b9a6ec76-322c-4e53-b659-fdb5346048d4)
 
@@ -264,7 +264,7 @@ A Domain Name System (DNS) turns domain names into IP addresses, which allow bro
 
 ![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/7291c7eb-11bc-47f1-a72d-441ad5d80839)
 
-![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/741f2f8f-a585-4e56-ba23-864b56d5a66d)
+![DNS](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/1af7858a-0c22-40c9-85ac-9ce80ea2397f)
 
 # OSI Model [Open Systems Interconnection]
 
@@ -339,7 +339,7 @@ The following illustration shows the architecture of a Linux system −
 
 # Some important File System Hierarchy
 
-![image](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/06f8016e-96c6-42fa-88fd-3d8f9e68c59b)
+![Root Hierarchy](https://github.com/6288mani/Networking-Basics-Zero-to-Hero/assets/89063645/d650a489-7d17-4870-b9ef-55f33f13e68b)
 
 # Diffrent Linux distros
 
